@@ -1,0 +1,2 @@
+# utl_import_all_excel_workbooks_created_in_the_previous_seven_days
+Import all excel workbooks created in the previous seven days.  Keywords: sas sql join merge big data analytics macros oracle teradata mysql sas communities stackoverflow statistics artificial inteligence AI Python R Java Javascript WPS Matlab SPSS Scala Perl C C# Excel MS Access JSON graphics maps NLP natural language processing machine learning igraph DOSUBL DOW loop stackoverflow SAS community.
